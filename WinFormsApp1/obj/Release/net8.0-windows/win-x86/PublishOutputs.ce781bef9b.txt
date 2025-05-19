@@ -1,0 +1,7 @@
+C:\Users\Admin\Downloads\mdg\WinFormsApp1.pdb
+C:\Users\Admin\Downloads\mdg\D3DCompiler_47_cor3.dll
+C:\Users\Admin\Downloads\mdg\PenImc_cor3.dll
+C:\Users\Admin\Downloads\mdg\PresentationNative_cor3.dll
+C:\Users\Admin\Downloads\mdg\vcruntime140_cor3.dll
+C:\Users\Admin\Downloads\mdg\wpfgfx_cor3.dll
+C:\Users\Admin\Downloads\mdg\WinFormsApp1.exe

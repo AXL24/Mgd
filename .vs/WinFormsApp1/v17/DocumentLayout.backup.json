@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\mgd3\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32DA9800-5630-45A4-90CB-85627B899A89}|WinFormsApp1\\WinFormsApp1.csproj|d:\\mgd3\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DA9800-5630-45A4-90CB-85627B899A89}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DA9800-5630-45A4-90CB-85627B899A89}|WinFormsApp1\\WinFormsApp1.csproj|d:\\mgd3\\winformsapp1\\winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DA9800-5630-45A4-90CB-85627B899A89}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DA9800-5630-45A4-90CB-85627B899A89}|WinFormsApp1\\WinFormsApp1.csproj|D:\\mgd3\\WinFormsApp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32DA9800-5630-45A4-90CB-85627B899A89}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 313,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1183,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\mgd3\\WinFormsApp1\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "D:\\mgd3\\WinFormsApp1\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T15:04:04.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\mgd3\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\mgd3\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:11:32.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\mgd3\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\mgd3\\WinFormsApp1\\WinFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:01:33.596Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

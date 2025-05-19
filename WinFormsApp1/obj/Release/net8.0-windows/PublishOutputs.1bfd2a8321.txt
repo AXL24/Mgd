@@ -1,0 +1,6 @@
+C:\Users\Admin\Downloads\WinFormsApp1.exe
+C:\Users\Admin\Downloads\WinFormsApp1.dll
+C:\Users\Admin\Downloads\WinFormsApp1.deps.json
+C:\Users\Admin\Downloads\WinFormsApp1.runtimeconfig.json
+C:\Users\Admin\Downloads\WinFormsApp1.pdb
+C:\Users\Admin\Downloads\Newtonsoft.Json.dll
